@@ -148,7 +148,7 @@ Abaixo é possível ver a distribuição das avaliações dos quartos ao longo d
 
 ***3. Resumir informações em um dashboard***
 
-Abaixo o dashboard desenvolvido para o projeto
+Abaixo o dashboard desenvolvido para o projeto:
 
 <img width="884" height="498" alt="image" src="https://github.com/user-attachments/assets/b26e04be-e837-4b4e-8303-4aaf6581b39a" />
 
