@@ -24,7 +24,7 @@ As ferramentas e tecnologias utilizadas foram:
 
 Toda a documentação relacionada a exploração dos dados pode ser encontrada no link abaixo:
 
-- [Processamento e análises](https://github.com/beatriz-mdc/Projeto3_Risco_Relativo/blob/main/processamento_e_analises.md)
+- [Processamento e análises](https://github.com/beatriz-mdc/projeto5_airbnb/blob/main/processamento_e_analises.md)
 
 
 
