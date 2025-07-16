@@ -26,6 +26,14 @@ Toda a documentação relacionada a exploração dos dados pode ser encontrada n
 
 - [Processamento e análises](https://github.com/beatriz-mdc/projeto5_airbnb/blob/main/processamento_e_analises.md)
 
+# Recomendações
+
+- Colocar o campo “distrito” como item obrigatório no preenchimento da avaliação;
+- Explorar mais oportunidades no Bronx e Staten Island promovendo essas áreas como alternativas mais acessíveis;
+- Aproveitar o alto tráfego em Manhattan e Brooklyn incentivando o uso de upselling (experiências, serviços extras);
+- Explorar mais o modelo de quartos compartilhados, que pode atrair perfis mais econômicos, como mochileiros e estudantes.
+
+
 
 
 
